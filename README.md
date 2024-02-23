@@ -52,3 +52,7 @@ Relevant modules:
 * Experience of working with SAS to perform data analysis
 * Experience of writing well-structured and engaging reports of key findings from projects and assignments
 
+## Dissertations 
+
+MSc in Big Data Analytics, Sheffield Hallam University: ‘Comparing the Approaches of Incremental Learning and Parallel Processing for Machine Learning at scale using the example of Housing Affordability in England’
+
