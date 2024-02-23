@@ -6,7 +6,7 @@
 
 **Linkedin:** [https://www.linkedin.com/in/daniel-appleton/](https://www.linkedin.com/in/daniel-appleton/) 
 
-**Email:** [danielappleton15@gmail.com](danielappleton15@gmail.com)
+**Email:** danielappleton15@gmail.com
 
 **GitHub:** [https://github.com/Daniel-Appleton-SHU](https://github.com/Daniel-Appleton-SHU) 
 
