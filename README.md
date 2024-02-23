@@ -45,10 +45,21 @@ Relevant modules:
 
 ### High Storrs School | September 2012 - July 2017
 
-• 5 GCSEs at grade C to B
+*5 GCSEs at grade C to B
 
-• 2 GCSEs at grade 5 to 8 (Including English language 5 and Mathematics 8)
+*2 GCSEs at grade 5 to 8 (Including English language 5 and Mathematics 8)
 
-• City and Guilds qualification in food studies (Completed July 2015)
+*City and Guilds qualification in food studies (Completed July 2015)
 
-• Level 2 award in food safety and catering (Completed October 2014)
+*Level 2 award in food safety and catering (Completed October 2014)
+
+## Technical Competencies
+
+Proficient Knowledge of Python and key libraries (Pandas and NumPy for Data Analysis, Scikit Learn for Machine Learning, Matplotlib for Data Visualisation)
+Proficient Knowledge of Tableau for Data Visualisation
+Experience of developing large scale machine learning models with parallel processing
+Experience of working with and analysing large datasets with Dask
+Experience of working with R to perform data analysis and data visualisation
+Experience of working with SAS to perform data analysis
+Experience of writing well-structured and engaging reports of key findings from projects and assignments
+
