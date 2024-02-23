@@ -11,7 +11,7 @@
 **GitHub:** [https://github.com/Daniel-Appleton-SHU](https://github.com/Daniel-Appleton-SHU) 
 
 ## Education
-### Sheffield Hallam University – Big Data Analytics MSc (Predicted Merit) 
+### Sheffield Hallam University – Big Data Analytics MSc (Predicted Merit)          January 2023 - January 2024
 
 Relevant modules:
 
@@ -23,7 +23,7 @@ Relevant modules:
 
 • Study Skills and Project Management
 
-### University of Liverpool – Mathematics BSc 2:1 
+### University of Liverpool – Mathematics BSc 2:1                                   September 2019 - June 2022 
 
 Relevant modules:
 
@@ -33,7 +33,7 @@ Relevant modules:
 
 • Professional projects and employability in mathematics
 
-### UTC Sheffield
+### UTC Sheffield                                                                    September 2017 - July 2019
 
 • A level Mathematics A*
 
@@ -43,7 +43,7 @@ Relevant modules:
 
 • Level 3 Cambridge Technical in Engineering D*
 
-### High Storrs School
+### High Storrs School                                                                September 2012 - July 2017
 
 • 5 GCSEs at grade C to B
 
