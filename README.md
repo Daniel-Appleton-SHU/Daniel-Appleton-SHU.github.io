@@ -2,6 +2,8 @@
 
 ## MSc Big Data Analytics Graduate from Sheffield Hallam University
 
+## Contact Info
+
 ### Linkedin: https://www.linkedin.com/in/daniel-appleton/ 
 ### Email: danielappleton15@gmail.com
 
