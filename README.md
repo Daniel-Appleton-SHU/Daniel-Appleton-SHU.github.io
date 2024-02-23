@@ -4,11 +4,11 @@
 
 ## Contact Info
 
-Linkedin: https://www.linkedin.com/in/daniel-appleton/ 
+**Linkedin:** [](https://www.linkedin.com/in/daniel-appleton/) 
 
-Email: danielappleton15@gmail.com
+**Email:** [](danielappleton15@gmail.com)
 
-GitHub: https://github.com/Daniel-Appleton-SHU 
+**GitHub:** [](https://github.com/Daniel-Appleton-SHU) 
 
 ## Education
 ### Sheffield Hallam University – Big Data Analytics MSc (Predicted Merit) 
