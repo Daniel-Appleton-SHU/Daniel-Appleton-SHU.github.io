@@ -5,7 +5,9 @@
 ## Contact Info
 
 Linkedin: https://www.linkedin.com/in/daniel-appleton/ 
+
 Email: danielappleton15@gmail.com
+
 GitHub: https://github.com/Daniel-Appleton-SHU 
 
 ## Education
