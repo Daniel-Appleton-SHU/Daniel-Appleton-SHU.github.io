@@ -44,11 +44,11 @@ Relevant modules:
 
 ## Technical Competencies
 
-Proficient Knowledge of Python and key libraries (Pandas and NumPy for Data Analysis, Scikit Learn for Machine Learning, Matplotlib for Data Visualisation)
-Proficient Knowledge of Tableau for Data Visualisation
-Experience of developing large scale machine learning models with parallel processing
-Experience of working with and analysing large datasets with Dask
-Experience of working with R to perform data analysis and data visualisation
-Experience of working with SAS to perform data analysis
-Experience of writing well-structured and engaging reports of key findings from projects and assignments
+* Proficient Knowledge of Python and key libraries (Pandas and NumPy for Data Analysis, Scikit Learn for Machine Learning, Matplotlib for Data Visualisation)
+* Proficient Knowledge of Tableau for Data Visualisation
+* Experience of developing large scale machine learning models with parallel processing
+* Experience of working with and analysing large datasets with Dask
+* Experience of working with R to perform data analysis and data visualisation
+* Experience of working with SAS to perform data analysis
+* Experience of writing well-structured and engaging reports of key findings from projects and assignments
 
